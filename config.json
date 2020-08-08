@@ -3,7 +3,7 @@
     "appSecret": "",
     "callbackUrl": "http://localhost:3000/admin/authCallback",
     "accessToken": "",
-    "linkCache": true,
+    "linkCache": true, 
     "linkCacheTime": 3600,
     "defaultFolder": -1
 }
